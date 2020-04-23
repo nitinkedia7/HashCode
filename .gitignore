@@ -1,0 +1,8 @@
+# C++ Executable
+*.out
+
+# Zips
+*.zip
+
+# Specific files
+Qualifier2020/backup.cpp
